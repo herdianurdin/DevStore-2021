@@ -1,7 +1,7 @@
 ## DevStore
 Tugas akhir Bootcamp React Native JCC, membuat aplikasi yang terhubung dengan API dan Firebase untuk autentikasi.
 
-[Demo Video](https://youtu.be/1_MXBJEyuhQ)
+[Demo Video](https://drive.google.com/file/d/1ufJ6LjHhM2nRR4-dJMLdOBw81LLZWNcO/view?usp=sharing)
 
 ## Sumber API
 [DevStore](https://herdaynote.github.io/DevStoreAPI/)
