@@ -1,13 +1,53 @@
-## DevStore
-Tugas akhir Bootcamp React Native JCC, membuat aplikasi yang terhubung dengan API dan Firebase untuk autentikasi.
+## About Project
 
-[Demo Video](https://drive.google.com/file/d/1ufJ6LjHhM2nRR4-dJMLdOBw81LLZWNcO/view?usp=sharing)
+![Screenshot](screenshot.webp)
 
-## Sumber API
-[DevStore](https://herdaynote.github.io/DevStoreAPI/)
+This application is the final project of the React Native Jabar Coding Camp Bootcamp in Season 1. The conditions given are the use of Rest API and Firebase Authentication.
 
-## Aplikasi
-[Download](https://drive.google.com/file/d/1n7jFFahAgW2oCnOHyMdokDsVmu9piDel/view?usp=sharing)
+The theme of this application itself is the Laptop Online Store. Which provides a wide selection of Laptops for Content Creators and Programmers.
 
-## Screenshot
-![DevStore](https://cdn.statically.io/gh/Herdianurdin/DevStore-2021/main/DevStore.png)
+### JSON Structure For API
+
+```JSON
+{
+  "Brand": [
+    {
+      "id": "",
+      "brand": "",
+      "logo": "",
+    },
+  ],
+  "Laptop": [
+    {
+      "id": "",
+      "brand": "",
+      "storeId": "",
+      "storeName": "",
+      "storeLogo": "",
+      "model": "",
+      "type": "",
+      "description": "",
+      "image": "",
+      "imageThumbnail": "",
+      "specification": {
+        "OS": "",
+        "Processor": "",
+        "Graphics": "",
+        "Display": "",
+        "Memory": "",
+        "Storage": "",
+      },
+      "price": 0.00,
+      "count": 0,
+    },
+  ]
+}
+```
+
+### Built With
+
+[<img src='react.svg' width='100' />](https://reactnative.dev/)
+
+## License
+
+Distributed under the GPL License. See [LICENSE](LICENSE) for more information.
