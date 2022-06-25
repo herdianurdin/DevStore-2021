@@ -46,7 +46,8 @@ The theme of this application itself is the Laptop Online Store. Which provides 
 
 ### Built With
 
-[<img src='react.svg' width='100' />](https://reactnative.dev/)
+[<img src='react.svg' alt='react' width='100' />](https://reactnative.dev/)
+[<img src='firebase.svg' alt='firebase' width='100' />](https://firebase.google.com/)
 
 ## License
 
